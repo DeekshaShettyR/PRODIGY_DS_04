@@ -37,7 +37,4 @@ This project performs sentiment analysis on tweets using the **VADER (Valence Aw
 | `sentiment_by_entity.png`      | Top 5 entities and their sentiment spread |
 | `compound_score_distribution.png` | Histogram of sentiment scores         |
 
----
-
-## 📁 Folder Structure
 
